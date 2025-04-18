@@ -50,7 +50,7 @@
 
 3. Run the app on an emulator or physical device:
    ```bash
-   expo start
+   npx expo start
    ```
 
 ### Tools and Libraries Used
