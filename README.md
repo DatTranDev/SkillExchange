@@ -60,7 +60,7 @@
 </p>
 
 ### Tools and Libraries Used
-- **Expo JS**: Mobile app development framework.
+- **Expo**: Mobile app development framework.
 - **React Navigation**: Used for navigation between screens in the app.
 - **Firebase**: Used for user management, data storage, and push notifications.
 - **Socket.io**: Used for real-time chat features in meeting rooms.
