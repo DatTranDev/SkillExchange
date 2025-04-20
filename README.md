@@ -52,6 +52,12 @@
    ```bash
    npx expo start
    ```
+### Screenshots
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/expensetracker-214d3.appspot.com/o/searching.jpg?alt=media&token=e7f13f50-5260-4b70-9747-7515335e0889" alt="Searching" width="200" style="border-radius: 20px; margin-right: 10px;"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/expensetracker-214d3.appspot.com/o/matching.jpg?alt=media&token=7efc59cd-0c41-49ad-a3c2-cc57dc05c5a5" alt="Matching" width="200" style="border-radius: 20px; margin-right: 10px;"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/expensetracker-214d3.appspot.com/o/register.jpg?alt=media&token=1634eecb-2d4d-4853-b7ff-e34f8791ddd9" alt="Register" width="200" style="border-radius: 20px;"/>
+</p>
 
 ### Tools and Libraries Used
 - **Expo JS**: Mobile app development framework.
